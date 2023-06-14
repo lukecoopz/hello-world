@@ -69,7 +69,7 @@
             this.Height_box.Name = "Height_box";
             this.Height_box.Size = new System.Drawing.Size(135, 26);
             this.Height_box.TabIndex = 1;
-            this.Height_box.TextChanged += new System.EventHandler(this.Height_box_TextChanged);
+            //this.Height_box.TextChanged += new System.EventHandler(this.Height_box_TextChanged);
             // 
             // label1
             // 

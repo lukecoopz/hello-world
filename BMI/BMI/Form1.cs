@@ -99,10 +99,10 @@ namespace BMI
 
         }
 
-        private void Height_box_TextChanged(object sender, EventArgs e)
-        {
+        //private void Height_box_TextChanged(object sender, EventArgs e)
+        //{
 
-        }
+        //}
 
         private void switch_Units_Click(object sender, EventArgs e)
         {
@@ -116,7 +116,7 @@ namespace BMI
             {
                 Height_Text.Text = "Height (m)";
                 Weight_Text.Text = "Weight (kg)";
-                Units.Text = "Metric Uints";
+                Units.Text = "Metric Units";
             }
             BMI.Text = "";
             BMI.BackColor = Color.White;
