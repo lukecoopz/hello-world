@@ -17,3 +17,13 @@ C:\Users\lukec\Desktop\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.Cache
 C:\Users\lukec\Desktop\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
 C:\Users\lukec\Desktop\BMI\BMI\obj\Debug\BMI.exe
 C:\Users\lukec\Desktop\BMI\BMI\obj\Debug\BMI.pdb
+D:\Random Shit\hello-world\BMI\BMI\bin\Debug\BMI.exe.config
+D:\Random Shit\hello-world\BMI\BMI\bin\Debug\BMI.exe
+D:\Random Shit\hello-world\BMI\BMI\bin\Debug\BMI.pdb
+D:\Random Shit\hello-world\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+D:\Random Shit\hello-world\BMI\BMI\obj\Debug\BMI.Form1.resources
+D:\Random Shit\hello-world\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+D:\Random Shit\hello-world\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+D:\Random Shit\hello-world\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\Random Shit\hello-world\BMI\BMI\obj\Debug\BMI.exe
+D:\Random Shit\hello-world\BMI\BMI\obj\Debug\BMI.pdb
